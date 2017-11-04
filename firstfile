@@ -1,1 +1,12 @@
-# alexa pls
+#!/bin/bash
+
+echo "hello world"
+echo hello world
+echo "hello world"
+echo "hello world"
+echo "hello world"
+echo "hello world"
+echo "hello 1world"
+echo hello world
+echo "hello world"
+x = "hello world"
